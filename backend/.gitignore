@@ -1,0 +1,8 @@
+# Mga log files
+*.log
+
+# Node.js dependencies
+node_modules/
+
+# Environment files
+.env
